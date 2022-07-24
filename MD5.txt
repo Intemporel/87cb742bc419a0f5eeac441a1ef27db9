@@ -30,5 +30,5 @@ sqldrivers/qsqlpsql.dll bd63d68eef26d45d70b9fc9abf4b9e99
 styles/qwindowsvistastyle.dll 53a85f51054b7d58d8ad7c36975acb96
 translation/en_US.qm aa3eefb99394d1d04f9fd58ba6fadc8c
 translation/fr_FR.qm cd831b5be44e05ed487e9bdcbb495d0e
-wow-toolbox-updater.exe 41cf8133ecce4828400ca93377200091
+wow-toolbox-updater.exe 948acba0611411fb4d0cab1b0f962502
 wow-toolbox.exe 7d6a935c8072751a4db491a9f6fd4397

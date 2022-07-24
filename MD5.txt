@@ -1,4 +1,3 @@
-.gitignore 538e28f7d8ea192b320570bdd947bee9
 bearer/qgenericbearer.dll 14d67b1249a52090a8d3edca9fdcc262
 D3Dcompiler_47.dll b0ae3aa9dd1ebd60bdf51cb94834cd04
 iconengines/qsvgicon.dll 313f89994f3fea8f67a48ee13359f4ba
